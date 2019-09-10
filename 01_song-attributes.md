@@ -1,10 +1,11 @@
 ## Assignment 1
-### Catalog of Attributes
+### Interactive Music Experience for a Catalog of Attributes
 ----------
 
 **Activity: do a [catalog of attributes](https://makingmusic.ableton.com/catalog-of-attributes) of one of your songs. Design an interactive music experience based on it.**
 
-#### Attributes of "Mátame" by Rubio.
+##### Attributes of "Mátame" by Rubio
+*Released 2018 in Santiago, Chile*
 [Listen here](https://open.spotify.com/track/6HQy2yabJg8TrjPEMiB6sL?si=opHpopqyRkCs3DVNASFNtA)
 
 **Beat** 
@@ -19,12 +20,15 @@ Chorus 1: type A, 4 of 4
 
 
 **Instrument layers (in order of appearence)**
-- Acoustic drum, with distortion (bass, snare, hi-hat, crash)
-    Many ghost notes on the snare and hi-hat
+- Acoustic drum, with distortion. 
+    Use of the bass drum, snare, hi-hat and crash. No toms or other cymbals.
+    Many ghost eighth notes and fills on the snare and hi-hat.
+    The pattern builds a melody that is more noticeable than a simple accompaniment of the song.
 - Electric guitar, distorted riff
-    Very stereo 
+    Starts simple but in the interludes it divides into a very marked stereo. 
+    In the second verse it disappears and comes back again in the second interlude.
 - Analogue synth deep bass
-    Simple and continuos
+    Simple and continuos melody, three chords per bar.
 - Female voice, airy, reverbed
 - Female choirs, almost spooky
 - Down tuned whispered words
@@ -38,3 +42,16 @@ D - C - A, F
 
 **Other characteristics**
 - 
+
+##### Interactive Experience
+
+**Title**
+Song Cake
+
+**Description**
+An easy way to understand the musicality of a song is perform a dissection of it's parts. I think of two ways one can do this. Either by the parts that happens horizontally through time. This is, by dividing the entire song by the timeline. What happens in the introduction, the verse, the chorus and the end. Another way is by looking at it in the vertical axis. This is by paying attention to every sound distinguishable at the same time. Either could work, but it may be more interesting to do one or the other depending on the case. 
+
+For this particular song, 
+
+
+Design: finish your experience concept and document it. Include a title, a one-paragraph description, a sketch/text description of the interaction, and anything else that would help communicate your concept quickly. Submit it using this form.
