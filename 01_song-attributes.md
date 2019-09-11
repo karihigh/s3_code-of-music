@@ -59,3 +59,6 @@ For this particular song, the vertical way of looking at it makes more sense to 
 The frosting that sticks it together can be seen as the mixing of the sounds so that they aren't just thrown randomly at the same time and competing with each other. But rather harmoniously bonded. The same ingredient also covers the final result of the layers. It seals the outter part of the cake conforming it into a song. 
 
 In a three-dimensional visualization of a layer cake, this experience will assign one layer to each distinguishable sound of the song. This cake will rotate around like a record but instead of looking from the top, you will be able to explore through it. The layers could organized by hierarchy, from the most recognizable melody to the almost invisible arrangements. Or by pitch, from the bass that supports the structure to the ethereal voice choirs on the top. Once inside the cake, one can step through each layer to listen to it louder and get a 'closer look' as the song plays. 
+
+<img src="https://github.com/karihigh/s3_code-of-music/blob/master/01_sketch.png?raw=true"
+     alt="Sketch of a person inside a cake" style="width: 100%"/>
