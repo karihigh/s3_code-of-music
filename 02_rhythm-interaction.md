@@ -11,7 +11,7 @@
 
 This is a very cute, easy and simple to use rhythm interface. It is made up from one text input. With the first letter typed inside the box there will be a sound. At the beggining the rhythms are very random and it is difficult to follow the translation from the letters to each sound. But I spent some time going letter through letter to try and understand the algorhythm behind. Apparently there is one sample assigned to each character, even the spaces which logically correspond to a silenced note. The metrics are determined by the number of characters you write down. After it plays each letter it loops automatically. That means if you type 4 letters, you will get a 4/4 metric, and a 7 letter word will play 7/8. You are in control of what you type, but not so much of what sound is produced. In more complex letters, the beat adds a regular hi-hat to make it more musical. It doesen't require any expertise rather than knowing how to type things, but even a cat could make some sounds by walking on the computer keyboard.
 
-<img src="https://github.com/karihigh/s3_code-of-music/blob/master/typedrummer.png?raw=true"
+<img src="https://github.com/karihigh/s3_code-of-music/blob/master/catkeyboard.gif?raw=true"
      alt="Animated gif of a cat typing a keyboard randomly" style="width: 100%"/>
 
 I feel that this typing drummer could have an information panel so that a more curious user could know which characters correspond to which sound and push a little forward this translation from letters to sound. Maybe some syllable analysis could augment this interface into making rhythms for poems. It could borrow some of the features of the Neural Drum Machine such as tempo, swing and would definately add some more sample packs. 
