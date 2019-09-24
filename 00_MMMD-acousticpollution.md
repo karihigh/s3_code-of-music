@@ -15,3 +15,4 @@ Below there is a screen recording of the raspberry workflow (click on the image 
 
 For this experiment I recorded the sound of the ITP Floor. On a second iteration I would like to run the raspberry in a battery and run the code in the fire escape of my appartment an entire night. 
 
+<img src="https://github.com/karihigh/s3_code-of-music/blob/master/audioanalysis.png?raw=true" style="width: 100%; text-align: center;"/>
