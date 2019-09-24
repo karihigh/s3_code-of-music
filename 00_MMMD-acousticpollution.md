@@ -11,14 +11,12 @@ Since I've moved to New York I've noticed the amount of acoustic pollution happe
 The first step was making sure that the device is being recognized by the sound card. Then I found this piece of [code](https://makersportal.com/blog/2018/8/23/recording-audio-on-the-raspberry-pi-with-python-and-a-usb-microphone) that uses `pyaudio` and `wave` libraries to make a .wav file. To get a closer look at the recorded file, I downloaded Audacity, a very simple digital audio workspace that did more that I expected. I was planning on writing some code to set a threshold and find peaks in the recording. But Audacity comes with this feature built-in good enough for this prototype and to learn the procedure of this type of analysis. 
 
 foto del sistema
-<img src="http://trailridgetech.com/wp-content/uploads/2011/03/LogitechUSBMic.jpg" style="width: 100%; text-align: center;"/>
+<img src="https://github.com/karihigh/s3_code-of-music/blob/master/20190923_204250.jpg?raw=true" style="width: 100%; text-align: center;"/>
 
 Below there is a screen recording of the raspberry workflow. 
 
-embed
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K-j6QG2TgNU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-For this experiment I recorded the sound of the ITP Floor. On a second iteration I would like to run the raspberry in a battery and run the code in the fire escape of my appartment. 
+For this experiment I recorded the sound of the ITP Floor. On a second iteration I would like to run the raspberry in a battery and run the code in the fire escape of my appartment an entire night. 
 
-foto del analisis de audio
-<img src="http://trailridgetech.com/wp-content/uploads/2011/03/LogitechUSBMic.jpg" style="width: 100%; text-align: center;"/>
